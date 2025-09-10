@@ -222,9 +222,6 @@ Contributions are welcome! Here's how you can help:
 - Exercise history tracking
 - Workout routines
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
