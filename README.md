@@ -33,8 +33,8 @@ A real-time AI-powered fitness coaching application that uses computer vision to
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/your-username/ai-fitness-coach.git
-cd ai-fitness-coach
+git clone https://github.com/FaiqCh-456/AI-Fitness-Coach
+
 ```
 
 ### 2. Install Python 3.10
